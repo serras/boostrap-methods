@@ -17,7 +17,7 @@ java {
 
 dependencies {
     implementation(kotlin("reflect"))
-    implementation("org.ow2.asm:asm:9.7.1")
+    // implementation("org.ow2.asm:asm:9.7.1")
     testImplementation(kotlin("test"))
 }
 
